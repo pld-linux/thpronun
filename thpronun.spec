@@ -2,7 +2,7 @@ Summary:	Thai word pronunciation program
 Summary(pl.UTF-8):	Program do wymowy słów tajskich
 Name:		thpronun
 Version:	0.2.0
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Applications/Text
 Source0:	https://linux.thai.net/pub/thailinux/software/thpronun/%{name}-%{version}.tar.xz
